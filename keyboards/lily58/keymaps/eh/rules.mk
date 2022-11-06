@@ -1,0 +1,10 @@
+OLED_ENABLE = yes
+OLED_DRIVER_ENABLE= yes
+OLED_DRIVER = SSD1306
+VIA_ENABLE = yes
+MOUSEKEY_ENABLE = no
+ENCODER_ENABLE = yes
+EXTRAKEY_ENABLE = yes
+LTO_ENABLE = yes
+RGBLIGHT_ENABLE = no
+WPM_ENABLE = yes					# Enable word per minute counter
