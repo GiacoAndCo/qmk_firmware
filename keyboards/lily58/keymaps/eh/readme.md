@@ -14,6 +14,10 @@ Do what you want 'cause a pirate is free, but clone at your own risk.
 - [ ] Improve wpm counter on right-hand-side display
 - [ ] Improve automation for left-hand-side display shutoff
 
+## Flash
+```
+qmk flash -kb lily58 -km eh
+```
 
 ## Layout:
 
