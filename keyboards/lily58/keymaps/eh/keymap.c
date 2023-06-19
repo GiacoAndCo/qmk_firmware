@@ -408,9 +408,9 @@ bool encoder_update_user(uint8_t index, bool clockwise) {
         if (IS_LAYER_ON(_RAISE)) { // on Raise layer
             // Cursor control
             if (clockwise) {
-                tap_code(KC_MNXT);
+                tap_code(KC_PAGE_DOWN);
             } else {
-                tap_code(KC_MPRV);
+                tap_code(KC_PAGE_UP);
             }
         } else {
             if (clockwise) {
